@@ -1,0 +1,11 @@
+{
+  "name": "date-since",
+  "version": "1.0.0",
+  "description": "format a javascript date into seconds, hours, days, or years ago",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul Jordan",
+  "license": "MIT"
+}
